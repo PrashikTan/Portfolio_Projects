@@ -22,3 +22,26 @@ To use the code in this repository, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/customer-segmentation.git
+
+2. Install the required dependencies using the following command:
+
+pip install -r requirements.txt
+
+
+
+3. Run the Jupyter notebooks or Python scripts provided in the repository to perform customer segmentation analysis.
+
+## Usage
+
+This project provides a set of Jupyter notebooks and Python scripts that demonstrate various customer segmentation techniques. Users can explore different methods for segmenting customers and apply these techniques to their own datasets. The repository includes comprehensive documentation within the Jupyter notebooks to guide users through the process.
+
+Feel free to customize the code and incorporate your own data to perform customer segmentation tailored to your business requirements.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request. Before making any changes, make sure to discuss the proposed changes via issue or email.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
