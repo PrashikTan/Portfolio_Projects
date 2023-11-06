@@ -22,7 +22,4 @@ The HR Analytics Dashboard provides HR professionals with a comprehensive overvi
 ## Future Scope
 Future iterations of the project will focus on integrating more advanced predictive analytics models for employee turnover prediction, incorporating natural language processing for sentiment analysis of employee feedback, and developing automated HR reporting functionalities for seamless data dissemination.
 
-## Contributors
-- [Your Name](link to your GitHub profile)
-
 Feel free to contribute to the project by providing suggestions, improvements, or additional features that can enhance the effectiveness of the HR Analytics Dashboard in facilitating data-driven decision-making within human resources departments.
