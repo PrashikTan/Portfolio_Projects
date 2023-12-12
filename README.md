@@ -5,6 +5,7 @@ Welcome to my GitHub repository showcasing a compilation of my data analysis pro
 - **COVID-19 Project**: Uncovering meaningful patterns related to the pandemic's spread using SQL queries and data analysis techniques.
 - **Customer Segmentation**: Utilizing Python and clustering algorithms for effective customer segmentation and targeted marketing.
 - **Real-time Face Recognition and Attendance Using Machine Learning**: A streamlined attendance tracking system leveraging machine learning algorithms and computer vision techniques.
+- **Movie Financial Performance Analysis and Income Prediction**: This project involves a comprehensive analysis of factors influencing the financial success of movies and the development of a predictive model for estimating movie income. The dataset used encompasses a diverse range of movie attributes, including budget, runtime, genre, cast, and more.
 
 ## Additional Projects
 - **HR Analytics Dashboard**: Interactive Tableau dashboard visualizing key workforce metrics and trends.
