@@ -1,0 +1,19 @@
+/* Ensure the container takes the full height of the viewport */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    background-color: white; /* Optional background color */
+    margin-top: 2%;
+    border: 8px solid #f3d70b;
+    border-radius: 10px;
+  }
+  
+  .center-image {
+    max-width: 100%;
+    height: 100%;
+    width: 100%; 
+    border-radius: 10px; 
+  }
+  
